@@ -1,4 +1,4 @@
-- 👀 I’m a proud Software Engineer with over 3+ years of experience
+- 👀 I’m a proud Software Engineer with over 4+ years of experience
 - 🌱 I’m currently growing as a Software Engineer - (Python and JavaScript)
 - 💞️ I’m open to collaboration and contribution
 - 📫  I can be reached by mail: zashafachii@gmail.com and tel: +2348120820611
