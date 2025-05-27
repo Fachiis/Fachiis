@@ -1,11 +1,10 @@
-👋 Hey there! I'm a passionate Software Engineer with over 4+ years of experience in the world of code. I specialize in crafting solutions with Python and JavaScript, and I'm always excited to take on new challenges and push the boundaries of what's possible in the tech world.
+👋 Hi, I’m Fachizasha, a Software Engineer with 5+ years of experience building scalable solutions in Python, JavaScript, TypeScript, and Rust<learning>. I’m the lead developer/CTO on Poblysh, and a developer/DevOps Engr at iCUBEFARM where I craft robust web apps using some latest stacks e.g. React.js, Next.js, Django, FastAPI and PostgreSQL, e.t.c
 
-🌱 I'm constantly growing as a Software Engineer, learning the latest technologies and honing my skills to stay at the forefront of the industry. Whether it's building robust web applications, optimizing algorithms, or diving into the world of data science, I thrive on the thrill of discovery and innovation.
+🌟 I thrive on solving complex challenges—whether it’s optimizing server memory, designing intuitive UIs with collapsible functionality, or exploring low-level programming with Rust and assembly. I’m passionate about clean code, performance, and creating tools that empower users.
 
-💞️ Collaboration is at the heart of my work. I love teaming up with fellow developers, designers, and innovators to create something extraordinary. If you have a project, an idea, or just want to chat about all things tech, I'm all ears and ready to contribute my expertise.
+💻 I’m always eager to collaborate on innovative projects. Let’s build something amazing together—whether it’s a web app, a backend service, or a performance-critical system.
 
-📫 You can easily reach out to me through email at zashafachii@gmail.com or by phone at +2348120820611. Don't hesitate to drop a message—I'm always up for a great conversation or the next exciting project!
-
+📫 Reach me at zashafachii@gmail.com or +2348120820611. I’d love to chat about tech, share ideas, or dive into your next big project!
 <!---<a href="https://app.daily.dev/fachiis"><img src="https://api.daily.dev/devcards/acf202a55a29400faa61fda987106717.png?r=y3g" width="400" alt="Fachii Felix Zasha's Dev Card"/></a>--->
 <!---
 Fachiis/Fachiis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
